@@ -3,7 +3,7 @@ Deformation Loop Closure sample code to enable non-rigid alignment of point clou
 
 If you feel that this code was useful please cite the following papers 
 
-SynthCam3D: SynthCam3D: Semantic Understanding With Synthetic Indoor Scenes
+*SynthCam3D: SynthCam3D: Semantic Understanding With Synthetic Indoor Scenes*
 
 Ankur Handa, Viorica Patraucean, Vijay Badrinarayanan, Simon Stent, Roberto Cipolla, 
 
