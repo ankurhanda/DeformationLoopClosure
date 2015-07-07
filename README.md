@@ -9,3 +9,8 @@ Ankur Handa, Viorica Patraucean, Vijay Badrinarayanan, Simon Stent, Roberto Cipo
 
 Workshop in Semantic SLAM, CVPR, 2015, Boston
 
+*ElasticFusion: Dense SLAM Without A Pose Graph* 
+
+Thomas Whelan, Stefan Leutenegger, Renato F. Salas-Moreno, Ben Glocker, and Andrew J. Davison
+
+RSS 2015
