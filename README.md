@@ -7,7 +7,7 @@ If you feel this code was useful please cite the following papers
 Ankur Handa, Viorica Patraucean, Vijay Badrinarayanan, Simon Stent, Roberto Cipolla, 
 Workshop in Semantic SLAM, CVPR, 2015, Boston
 
-This work has been built with ideas from 
+This work builds upon the ideas from 
 
 *Embedded Deformation for Shape Manipulation*: 
 Robert W. Sumner, Johannes Schmid and Mark Pauly
