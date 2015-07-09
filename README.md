@@ -10,11 +10,11 @@ Workshop in Semantic SLAM, CVPR, 2015, Boston
 This work builds upon the ideas from 
 
 *Embedded Deformation for Shape Manipulation*: 
-Robert W. Sumner, Johannes Schmid and Mark Pauly
+Robert W. Sumner, Johannes Schmid and Mark Pauly, 
 SIGGRAPH 2007
 
 *ElasticFusion: Dense SLAM Without A Pose Graph*: 
-Thomas Whelan, Stefan Leutenegger, Renato F. Salas-Moreno, Ben Glocker, and Andrew J. Davison
+Thomas Whelan, Stefan Leutenegger, Renato F. Salas-Moreno, Ben Glocker, and Andrew J. Davison,
 RSS 2015
 
 
