@@ -14,7 +14,7 @@ Robert W. Sumner, Johannes Schmid and Mark Pauly
 SIGGRAPH 2007
 
 *ElasticFusion: Dense SLAM Without A Pose Graph*: 
-Thomas Whelan*, Stefan Leutenegger*, Renato F. Salas-Moreno, Ben Glocker, and Andrew J. Davison
+Thomas Whelan, Stefan Leutenegger, Renato F. Salas-Moreno, Ben Glocker, and Andrew J. Davison
 RSS 2015
 
 
