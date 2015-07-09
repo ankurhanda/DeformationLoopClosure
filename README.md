@@ -17,6 +17,7 @@ SIGGRAPH 2007
 Thomas Whelan, Stefan Leutenegger, Renato F. Salas-Moreno, Ben Glocker, and Andrew J. Davison,
 RSS 2015
 
+Various Jacobians used in the code are derived in this document which might of some interest: mi.eng.cam.ac.uk/~ah781/NonRigidDeformableEmbedding.pdf
 
 Primary Contact:
 handa.ankur@gmail.com
