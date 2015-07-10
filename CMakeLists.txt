@@ -40,9 +40,6 @@ INCLUDE_DIRECTORIES(
   ${CVD_INCLUDE_DIR}
   ${PCL_INCLUDE_DIRS}
   ${OPENCV_INCLUDE_DIRS}
-  /usr/lib/x86_64-linux-gnu/glib-2.0/include
-  /usr/include/glib-2.0
-  /usr/lib/glib-2.0/include
 )
 
 LINK_DIRECTORIES(
@@ -50,7 +47,6 @@ LINK_DIRECTORIES(
   ${CUDA_SDK_ROOT_DIR}/lib
   ${CUDA_SDK_ROOT_DIR}/common/lib
   /usr/local/lib
-  /usr/local/lib64/osgPlugins-3.3.3
   /usr/local/lib64
 )
 
@@ -68,8 +64,6 @@ LINK_LIBRARIES(
   -lglut
   -lGLU
   -lGL
-  -lgts
-  -lglib-2.0
   -lboost_system
   -lpcl_search
   -lboost_filesystem
