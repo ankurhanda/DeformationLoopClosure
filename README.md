@@ -8,7 +8,7 @@ Eigen3
 CSparse
 PCL
 
-
+## Acknowledgements
 If you feel this code was useful please cite the following papers 
 
 *SynthCam3D: Semantic Understanding With Synthetic Indoor Scenes*
