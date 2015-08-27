@@ -3,13 +3,9 @@ Deformation Loop Closure sample code to enable non-rigid alignment of point clou
 
 ## Dependencies
 CVD
-
 TooN
-
 Eigen3
-
 CSparse
-
 PCL
 
 
