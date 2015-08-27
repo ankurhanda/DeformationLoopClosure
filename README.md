@@ -1,6 +1,18 @@
 # DeformationLoopClosure #Embedded Shape Deformation
 Deformation Loop Closure sample code to enable non-rigid alignment of point clouds. 
 
+## Dependencies
+CVD
+
+TooN
+
+Eigen3
+
+CSparse
+
+PCL
+
+
 If you feel this code was useful please cite the following papers 
 
 *SynthCam3D: Semantic Understanding With Synthetic Indoor Scenes*
