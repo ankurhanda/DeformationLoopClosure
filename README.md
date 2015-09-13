@@ -13,7 +13,7 @@ If you feel this code was useful please cite the following papers
 
 *SynthCam3D: Semantic Understanding With Synthetic Indoor Scenes*
 Ankur Handa, Viorica Patraucean, Vijay Badrinarayanan, Simon Stent, Roberto Cipolla, 
-Workshop in Semantic SLAM, CVPR, 2015, Boston
+arXiv:1505.00171
 
 This work builds upon the ideas from 
 
